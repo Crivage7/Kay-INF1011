@@ -1,0 +1,16 @@
+{
+  "name": "projet-kay-phase2",
+  "version": "1.0.0",
+  "description": "Version numérique du **Kay**, jeu de semailles haïtien de la famille des mancalas, pour deux joueurs. Projet de session INF1011 ; le devis de référence est `Projet-INF1011-Phase 1.pdf`.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

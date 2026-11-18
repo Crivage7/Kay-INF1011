@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Kay (API + client)",
+    "Projects": [
+      {
+        "Path": "Kay.Api\\Kay.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Kay.Client\\kay.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

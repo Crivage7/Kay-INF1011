@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Kay.Api/Kay.Api.csproj" />
+  <Project Path="Kay.Client/kay.client.esproj" />
+  <Project Path="Kay.Tests/Kay.Tests.csproj" />
+</Solution>

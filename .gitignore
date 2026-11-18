@@ -1,0 +1,31 @@
+# .NET
+bin/
+obj/
+TestResults/
+*.user
+.vs/
+
+# Base de données locale (tableau d'honneur)
+*.db
+*.db-shm
+*.db-wal
+
+# Client
+node_modules/
+dist/
+
+# Système / éditeurs
+.DS_Store
+.idea/
+# Fichiers temporaires .NET
+**/obj*/
+
+# Configurations locales
+.vscode/
+*.suo
+*.DotSettings.user
+
+# Variables d'environnement et secrets
+.env
+.env.*
+!.env.example
